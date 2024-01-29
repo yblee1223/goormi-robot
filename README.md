@@ -3,9 +3,8 @@
 
 ```**2024 SMARTJON 1등 수상작**```
 
-![Alt text](img/idea.png)
-![Alt text](img/goormi.png)
-
+![image.jpg1](img/idea.png) |![image.jpg2](img/goormi.png)
+--- | --- | 
 
 
 ## About Project
@@ -27,5 +26,5 @@
 ## Developer
 - 세종대학교 지능기전공학부 19 이용빈
 - 세종대학교 지능기전공학부 21 현희섭
-- 세종대학교 지능기전공학과 21 박신영
-- 세종대학교 지능기전공학부 21 조예림
+- 세종대학교 지능기전공학과 23 박신영
+- 세종대학교 지능기전공학부 23 조예림
